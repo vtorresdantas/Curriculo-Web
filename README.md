@@ -8,6 +8,6 @@ Olá! Seja bem-vindo ao repositório do meu currículo Web. Você vai encontrar 
 - Minha vida acadêmica
 - Expectativas e interesses para o futuro
 
-Acesse: https://vtorresdantas.github.io/Curriculo-Web/
+Acesse: https://curriculo.vtorresdantas.com.br/
 
 Muito obrigado pela visita!
